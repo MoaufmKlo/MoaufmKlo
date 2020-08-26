@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h3 align="center">👋 Hi there! I'm MoaufmKlo.</h3>
 <p align="center">
   <a href="https://moaufmklo.com">Website</a> •
