@@ -13,5 +13,4 @@ Here's a breakdown of projects I've helped with, at or created:
 - [Studesh](https://studesh.com/): Front- and back-end
 - [Bedocker](https://bedocker.com/): Front- and back-end
 - [Greenville Realism](https://discord.com/invite/S2tJn4wsew): Bot development (with [discord.js](https://discord.js.org/)), community management and growth
-- [hubdot](https://hubdot.xyz): Back-end
 - [Rensselaer County](https://www.roblox.com/games/4637668954/): Scripting
